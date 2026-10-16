@@ -1,0 +1,41 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/02b26z6okn5pp.js"
+3:"/_next/static/chunks/0msldtguh5isf.js"
+4:I[3374,["$2","$3"],"Header"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+7:"/_next/static/chunks/1ncoqkwzqrbvz.js"
+8:I[22016,["$2","$3","$7"],""]
+:HL["/_next/static/chunks/2pf0e2wdch26w.css","style"]
+:HL["/brand/araki-logo.png","image"]
+e:X
+12:X
+12:C
+13:[["children",{"s":"__PAGE__","h":160,"d":{"r":"$L14","p":"$@15","v":null,"s":"$e"}}]]
+f:[["children",{"s":"checkout","h":96,"d":{"r":"$L10","p":"$@11","v":"$12","s":"$e"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2pf0e2wdch26w.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/02b26z6okn5pp.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0msldtguh5isf.js","async":true}]],["$","html",null,{"lang":"en","data-scroll-behavior":"smooth","className":"_0bjUvq_variable L7hKSq_variable","children":[["$","head",null,{"children":[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}]]}],["$","body",null,{"className":"flex min-h-dvh flex-col","children":[["$","a",null,{"href":"#main","className":"sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[90] focus:rounded-full focus:bg-ink focus:px-4 focus:py-2 focus:text-ivory","children":"Skip to content"}],["$","$L4",null,{}],["$","main",null,{"id":"main","className":"flex-1","children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[["$","div",null,{"className":"container-lux flex min-h-[60vh] flex-col items-center justify-center gap-4 text-center","children":[["$","p",null,{"className":"eyebrow text-brass","children":"404"}],["$","h1",null,{"className":"font-display text-5xl font-medium","children":"This flame went out"}],["$","p",null,{"className":"max-w-sm text-sm text-ash","children":"The page you’re looking for doesn’t exist, or the order link has expired."}],["$","$L8",null,{"href":"/","className":"relative inline-flex select-none items-center justify-center rounded-full font-medium tracking-wide whitespace-nowrap transition-[background-color,border-color,color,transform,opacity] duration-200 ease-lux active:scale-[0.98] disabled:pointer-events-none bg-ink text-ivory hover:bg-ink-soft disabled:bg-ink/40 h-13 px-7 text-[15px] gap-2.5 mt-3","children":"Back to Araki"}]]}],[]]}]}],["$","footer",null,{"className":"mt-24 border-t border-line bg-sand/60","children":[["$","div",null,{"className":"container-lux grid gap-12 py-14 md:grid-cols-[1.4fr_1fr_1fr_1.4fr]","children":[["$","div",null,{"className":"max-w-xs","children":[["$","img",null,{"src":"/brand/araki-logo.png","alt":"Araki","width":678,"height":448,"decoding":"async","draggable":false,"className":"block w-auto select-none -ml-2 h-28"}],["$","p",null,{"className":"mt-4 text-sm leading-relaxed text-ash","children":"Hand-poured candles and collector-grade 3D sculpture. Quiet objects, made slowly, in small batches."}]]}],[["$","div","Shop",{"children":[["$","p",null,{"className":"eyebrow text-ash","children":"Shop"}],["$","ul",null,{"className":"mt-4 space-y-2.5","children":[["$","li","Candles",{"children":["$","$L8",null,{"href":"/shop?c=candles","className":"text-sm text-ink-soft transition hover:text-ink","children":"Candles"}]}],["$","li","Gift sets",{"children":["$","$L8",null,{"href":"/shop?c=candles&col=gift","className":"text-sm text-ink-soft transition hover:text-ink","children":"Gift sets"}]}],["$","li","Festive",{"children":["$","$L8",null,{"href":"/shop?c=candles&col=festive","className":"text-sm text-ink-soft transition hover:text-ink","children":"Festive"}]}],["$","li","3D Studio",{"children":["$","$L8",null,{"href":"/shop?c=3d","className":"text-sm text-ink-soft transition hover:text-ink","children":"3D Studio"}]}]]}]]}],["$","div","Explore",{"children":[["$","p",null,{"className":"eyebrow text-ash","children":"Explore"}],["$","ul",null,{"className":"mt-4 space-y-2.5","children":[["$","li","Shop all",{"children":["$","$L8",null,{"href":"/shop","className":"text-sm text-ink-soft transition hover:text-ink","children":"Shop all"}]}],["$","li","Sculpted flowers",{"children":["$","$L8",null,{"href":"/shop?c=candles&col=sculpted","className":"text-sm text-ink-soft transition hover:text-ink","children":"Sculpted flowers"}]}]]}]]}]],["$","div",null,{"children":[["$","p",null,{"className":"eyebrow text-ash","children":"Letters from the studio"}],"$L9","$La"]}]]}],"$Lb"]}],"$Lc"]}]]}]]}],"p":"$@d","v":null,"s":"$e"},"c":"$Qf"},"h":{"r":"$L16","p":"$@17","v":null,"s":"$e"}},"a":"$@18","u":"$@19","b":"nIr1sG4zVx8wqrRMbCx3e"}
+1a:I[46688,["$2","$3"],"Newsletter"]
+1b:I[30824,["$2","$3"],"Providers"]
+1c:I[97367,["$2","$3"],"OutletBoundary"]
+1d:"$Sreact.suspense"
+1f:"ViewportBoundary"
+20:I[97367,["$2","$3"],"$1f"]
+21:"MetadataBoundary"
+22:I[97367,["$2","$3"],"$21"]
+23:I[27201,["$2","$3"],"IconMark"]
+9:["$","p",null,{"className":"mt-4 text-sm text-ash","children":"New pours, limited prints and the occasional candle-care tip. No spam."}]
+a:["$","$L1a",null,{}]
+b:["$","div",null,{"className":"border-t border-line","children":["$","div",null,{"className":"container-lux flex flex-col gap-2 py-6 text-[12px] text-mist sm:flex-row sm:justify-between","children":[["$","p",null,{"children":["© ",2026," Araki Studio. All rights reserved."]}],["$","p",null,{"children":"Preview store · Orders are not being accepted yet."}]]}]}]
+c:["$","$L1b",null,{}]
+10:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}]
+14:["$","$1","c",{"children":[["$","div",null,{"className":"container-lux pt-8 sm:pt-12","children":["$","div",null,{"className":"flex min-h-[55vh] flex-col items-center justify-center gap-4 text-center","children":[["$","p",null,{"className":"eyebrow text-brass","children":"Coming soon"}],["$","h1",null,{"className":"font-display text-4xl font-medium sm:text-5xl","children":"Checkout opens at launch"}],["$","p",null,{"className":"max-w-md text-sm text-ash","children":"This is a preview of the Araki store. Orders and payments aren’t being accepted yet."}],["$","$L8",null,{"href":"/shop","className":"relative inline-flex select-none items-center justify-center rounded-full font-medium tracking-wide whitespace-nowrap transition-[background-color,border-color,color,transform,opacity] duration-200 ease-lux active:scale-[0.98] disabled:pointer-events-none bg-ink text-ivory hover:bg-ink-soft disabled:bg-ink/40 h-13 px-7 text-[15px] gap-2.5 mt-2","children":"Keep browsing"}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/1ncoqkwzqrbvz.js","async":true}]],["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]]}]
+16:["$","$1","h",{"children":[null,["$","$L20",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#faf8f4"}]]}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Checkout · Araki"}],["$","meta","1",{"name":"description","content":"Hand-poured candles and collector-grade 3D printed sculpture. Quiet objects, made slowly."}],["$","meta","2",{"name":"robots","content":"noindex"}],["$","link","3",{"rel":"icon","href":"/icon.png?icon.3o0svduz0y-0y.png","sizes":"192x192","type":"image/png"}],["$","link","4",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.0f0lsolsxf6v-.png","sizes":"180x180","type":"image/png"}],["$","$L23","5",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+1e:null
+19:true
+e:300
+e:C
+18:0
+11:"$undefined"
+17:"$undefined"
+15:"$undefined"
+d:"$undefined"
