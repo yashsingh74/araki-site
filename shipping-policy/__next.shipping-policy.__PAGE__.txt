@@ -1,0 +1,27 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/3vh5440q7wz_y.js"
+4:"/_next/static/chunks/38hgijwdbidka.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:I[22016,["$3","$4"],""]
+c:I[97367,["$3","$4"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$3","$4"],"$10"]
+12:"MetadataBoundary"
+13:I[97367,["$3","$4"],"$12"]
+14:I[27201,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"container-lux grid gap-10 pt-10 sm:pt-14 lg:grid-cols-[220px_1fr]","children":[["$","nav",null,{"aria-label":"Policies","className":"lg:sticky lg:top-28 lg:self-start","children":[["$","p",null,{"className":"eyebrow text-ash","children":"Help"}],["$","ul",null,{"className":"mt-4 flex flex-wrap gap-x-5 gap-y-2.5 lg:flex-col","children":[["$","li","/contact",{"children":["$","$Lb",null,{"href":"/contact","className":"text-sm text-ink-soft hover:text-ink","children":"Contact us"}]}],["$","li","/shipping-policy",{"children":["$","$Lb",null,{"href":"/shipping-policy","className":"text-sm text-ink-soft hover:text-ink","children":"Shipping & delivery"}]}],["$","li","/refund-policy",{"children":["$","$Lb",null,{"href":"/refund-policy","className":"text-sm text-ink-soft hover:text-ink","children":"Cancellations & refunds"}]}],["$","li","/privacy",{"children":["$","$Lb",null,{"href":"/privacy","className":"text-sm text-ink-soft hover:text-ink","children":"Privacy policy"}]}],["$","li","/terms",{"children":["$","$Lb",null,{"href":"/terms","className":"text-sm text-ink-soft hover:text-ink","children":"Terms of service"}]}]]}]]}],["$","article",null,{"className":"max-w-2xl","children":[["$","h1",null,{"className":"font-display text-4xl font-medium sm:text-5xl","children":"Shipping & delivery"}],["$","p",null,{"className":"mt-2 text-[13px] text-mist","children":["Last updated ","8 November 2026"]}],["$","div",null,{"className":"mt-8 space-y-5 text-[15px] leading-relaxed text-ink-soft [&_a]:underline [&_a]:underline-offset-4 [&_h2]:mt-10 [&_h2]:font-display [&_h2]:text-2xl [&_h2]:font-medium [&_h2]:text-ink [&_li]:ml-5 [&_li]:list-disc [&_ul]:space-y-2","children":[["$","h2",null,{"children":"Made to order"}],["$","p",null,{"children":["Every candle is poured by hand in small batches. Orders are usually ready to dispatch in ","2–4 days"," after we confirm them on WhatsApp. During festivals this can take a little longer — we’ll always tell you before you pay."]}],["$","h2",null,{"children":"Delivery charges"}],["$","ul",null,{"children":[["$","li",null,{"children":["Free delivery on orders of ","₹999"," or more."]}],["$","li",null,{"children":["Below that, delivery is ","₹79"," within India."]}],["$","li",null,{"children":["Pickup is always free. ","Pick up from our society stall — we'll share the time on WhatsApp."]}]]}],["$","h2",null,{"children":"Delivery time"}],["$","p",null,{"children":"Once dispatched, most orders arrive within 3–7 working days depending on your PIN code. We share the courier and tracking details on WhatsApp."}],["$","h2",null,{"children":"Damaged in transit"}],["$","p",null,{"children":"Candles are packed carefully, but glass and wax can be delicate. If anything arrives damaged, send us a photo or unboxing video within 48 hours of delivery and we’ll replace it or refund you."}],["$","h2",null,{"children":"Where we ship"}],["$","p",null,{"children":"We currently deliver within India only."}]]}]]}]]}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$9"}}]]
+1:[["children",{"s":"shipping-policy","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#faf8f4"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Shipping & delivery · Araki"}],["$","meta","1",{"name":"description","content":"Hand-poured candles and collector-grade 3D printed sculpture. Quiet objects, made slowly."}],["$","link","2",{"rel":"icon","href":"/icon.png?icon.3o0svduz0y-0y.png","sizes":"192x192","type":"image/png"}],["$","link","3",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.0f0lsolsxf6v-.png","sizes":"180x180","type":"image/png"}],["$","$L14","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$9"}},"a":"$@16","u":"$@17","b":"iYHfnvV6FdWJ-xoAsFnc5"}
+e:null
+17:true
+9:300
+9:C
+16:0
+7:"$undefined"
+15:"$undefined"
+f:"$undefined"

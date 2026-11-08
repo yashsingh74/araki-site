@@ -1,0 +1,29 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/3vh5440q7wz_y.js"
+4:"/_next/static/chunks/38hgijwdbidka.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:"$Sreact.suspense"
+c:"/_next/static/chunks/0kqq23juzmhdr.js"
+d:I[91481,["$3","$4","$c"],"ShopContent"]
+e:I[91481,["$3","$4","$c"],"ShopView"]
+f:I[97367,["$3","$4"],"OutletBoundary"]
+12:"ViewportBoundary"
+13:I[97367,["$3","$4"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$3","$4"],"$14"]
+16:I[27201,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"container-lux pt-10 sm:pt-14","children":["$","$b",null,{"fallback":["$","$Ld",null,{"c":null,"colParam":null}],"children":["$","$Le",null,{}]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/0kqq23juzmhdr.js","async":true}]],["$","$Lf",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$9"}}]]
+1:[["children",{"s":"shop","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#faf8f4"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Shop · Araki"}],["$","meta","1",{"name":"description","content":"Hand-poured candles and collector-grade 3D printed sculpture. Quiet objects, made slowly."}],["$","link","2",{"rel":"icon","href":"/icon.png?icon.3o0svduz0y-0y.png","sizes":"192x192","type":"image/png"}],["$","link","3",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.0f0lsolsxf6v-.png","sizes":"180x180","type":"image/png"}],["$","$L16","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$9"}},"a":"$@18","u":"$@19","b":"iYHfnvV6FdWJ-xoAsFnc5"}
+10:null
+19:true
+9:300
+9:C
+18:0
+7:"$undefined"
+17:"$undefined"
+11:"$undefined"

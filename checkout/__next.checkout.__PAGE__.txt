@@ -1,0 +1,29 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/3vh5440q7wz_y.js"
+4:"/_next/static/chunks/38hgijwdbidka.js"
+5:I[39756,["$3","$4"],"default"]
+6:I[37457,["$3","$4"],"default"]
+b:"/_next/static/chunks/2o96_ff6ojhn1.js"
+c:"/_next/static/chunks/3zdi3xhjoc-m-.js"
+d:I[22016,["$3","$4","$b","$c"],""]
+e:I[97367,["$3","$4"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$3","$4"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$3","$4"],"$14"]
+16:I[27201,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"container-lux pt-8 sm:pt-12","children":["$","div",null,{"className":"flex min-h-[55vh] flex-col items-center justify-center gap-4 text-center","children":[["$","p",null,{"className":"eyebrow text-brass","children":"Coming soon"}],["$","h1",null,{"className":"font-display text-4xl font-medium sm:text-5xl","children":"Online ordering opens soon"}],["$","p",null,{"className":"max-w-md text-sm text-ash","children":"Meanwhile, message us on Instagram to order."}],["$","div",null,{"className":"mt-2 flex flex-wrap justify-center gap-3","children":[["$","a",null,{"href":"https://instagram.com/araki.in","target":"_blank","rel":"noopener noreferrer","className":"relative inline-flex select-none items-center justify-center rounded-full font-medium tracking-wide whitespace-nowrap transition-[background-color,border-color,color,transform,opacity] duration-200 ease-lux active:scale-[0.98] disabled:pointer-events-none bg-ink text-ivory hover:bg-ink-soft disabled:bg-ink/40 h-13 px-7 text-[15px] gap-2.5","children":[["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":1.6,"strokeLinecap":"round","strokeLinejoin":"round","className":"size-5","aria-hidden":true,"children":[["$","rect",null,{"x":"3","y":"3","width":"18","height":"18","rx":"5"}],["$","circle",null,{"cx":"12","cy":"12","r":"4"}],["$","circle",null,{"cx":"17.3","cy":"6.7","r":"0.6","fill":"currentColor","stroke":"none"}]]}]," Order on Instagram"]}],["$","$Ld",null,{"href":"/shop","className":"relative inline-flex select-none items-center justify-center rounded-full font-medium tracking-wide whitespace-nowrap transition-[background-color,border-color,color,transform,opacity] duration-200 ease-lux active:scale-[0.98] disabled:pointer-events-none border border-ink/15 bg-white/60 text-ink hover:border-ink/40 hover:bg-white disabled:opacity-50 h-13 px-7 text-[15px] gap-2.5","children":"Keep browsing"}]]}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/2o96_ff6ojhn1.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/3zdi3xhjoc-m-.js","async":true}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$9"}}]]
+1:[["children",{"s":"checkout","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#faf8f4"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Checkout · Araki"}],["$","meta","1",{"name":"description","content":"Hand-poured candles and collector-grade 3D printed sculpture. Quiet objects, made slowly."}],["$","meta","2",{"name":"robots","content":"noindex"}],["$","link","3",{"rel":"icon","href":"/icon.png?icon.3o0svduz0y-0y.png","sizes":"192x192","type":"image/png"}],["$","link","4",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.0f0lsolsxf6v-.png","sizes":"180x180","type":"image/png"}],["$","$L16","5",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$9"}},"a":"$@18","u":"$@19","b":"iYHfnvV6FdWJ-xoAsFnc5"}
+10:null
+19:true
+9:300
+9:C
+18:0
+7:"$undefined"
+17:"$undefined"
+11:"$undefined"
